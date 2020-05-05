@@ -1,0 +1,9 @@
+COPY    START   0
+XYZ     MACRO   &X,&Y
+NULL    L       &X
+NULL    ST      &Y
+NULL    MEND    NULL
+NULL    XYZ     P,Q
+NULL    ABC	X1,X2
+NULL	XYZ	A,B
+NULL	END	NULL
